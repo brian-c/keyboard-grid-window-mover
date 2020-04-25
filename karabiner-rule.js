@@ -6,7 +6,7 @@ const SET_BOUNDS_SCPT = path.resolve(__dirname, 'set-window-bounds.applescript')
 
 const DESCRIPTION = `Position current window along a keyboard-based grid`;
 
-const MODIFIERS = ['shift'];
+const MODIFIERS = ['option'];
 
 const KEYBOARD_ROWS = [
 	['1', '2', '3', '4', '5', '6'],

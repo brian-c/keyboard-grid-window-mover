@@ -7,9 +7,9 @@ This is a rule for [Karabiner-Elements](https://karabiner-elements.pqrs.org/) th
    [Z] [X] [C] [V] [B] [N]
 ```
 
-Hold shift and press the two character keys that map to opposite corners of the screen area at which you want to move the current window.
+Hold `Option` and press the two character keys that map to opposite corners of the screen area to which you want to move the current window.
 
-E.g. to move the window to the left half of the screen, hold `Shift` and the hit `1` and `C` keys simultaneously; for full-screen, it's `Shift+1+N`; the bottom right quarter would be `Shift+F+N`.
+E.g. to move the window to the left half of the screen, hold `Option` and the hit `1` and `C` keys simultaneously; for full-screen, it's `Option+1+N`; the bottom right quarter would be `Option+F+N`.
 
 To install:
 
